@@ -1,6 +1,6 @@
 <TetrasSRParams>
     
-    <SRVersion>SR_X_SDM_V3.0.1.2406_M1.62_k11</SRVersion>
+    <SRVersion>SR_X_SDM_V3.0.1.2406_M1.62_k11_2021-09-06 17:11:50</SRVersion>
 
     <SRParams>
         <ParamGroup>
@@ -6979,20 +6979,4 @@
             </ParamsArray>
         </ParamGroup>
     </SRParams>
-    <LegacyInternalParamsGroup>
-        <Qual_ISP_NoiseCalib_Params>
-            <Qual_NoiseCalib_Param_Item>
-                <NoiseIsp_Calib_CamId>SR_CAMERA_ID_K11_WIDE_IMX686</NoiseIsp_Calib_CamId>
-                <Mutable_NoiseCalib_S>{0.130654, 0.136505, 0.134011}</Mutable_NoiseCalib_S>
-                <Mutable_NoiseCalib_R0>{0.102993, 0.097464, 0.099197}</Mutable_NoiseCalib_R0>
-                <Mutable_NoiseCalib_R1>{0.801315, 0.431676, 0.630061}</Mutable_NoiseCalib_R1>
-            </Qual_NoiseCalib_Param_Item>
-            <Qual_NoiseCalib_Param_Item>
-                <NoiseIsp_Calib_CamId>SR_CAMERA_ID_K11_WIDE_S5KHM2</NoiseIsp_Calib_CamId>
-                <Mutable_NoiseCalib_S>{0.035321, 0.035345, 0.035250}</Mutable_NoiseCalib_S>
-                <Mutable_NoiseCalib_R0>{0.009863, 0.009575, 0.009285}</Mutable_NoiseCalib_R0>
-                <Mutable_NoiseCalib_R1>{0.176149, 0.229212, 0.305814}</Mutable_NoiseCalib_R1>
-            </Qual_NoiseCalib_Param_Item>
-        </Qual_ISP_NoiseCalib_Params>
-    </LegacyInternalParamsGroup>
 </TetrasSRParams>

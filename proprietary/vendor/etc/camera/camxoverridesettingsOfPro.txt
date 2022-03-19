@@ -53,8 +53,10 @@ isVideoBeautyEISSupported=TRUE
 #input size only maxsize for cts
 minReprocessInputWidth=0x1FFF
 minReprocessInputHeight=0x1FFF
-
 enablePerRequestSync=FALSE
+
+#add for raising frame rate in HFR when fps>=120
+FPSForHALOutputBufferCombined=120
 
 #Set MaxZoom to 10 to disable ExtendedMaxZoom feature
 extendedMaxZoomRatio=10.0

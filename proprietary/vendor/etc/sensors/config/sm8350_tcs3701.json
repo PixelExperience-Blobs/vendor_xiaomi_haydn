@@ -25,8 +25,8 @@
       "reg_addr_type":{ "type": "int", "ver": "0",
         "data": "0"
       },
-      "dri_irq_num":{ "type": "int", "ver": "0",
-        "data": "116"
+      "dri_irq_num":{ "type": "int", "ver": "1",
+        "data": "89"
       },
       "irq_pull_type":{ "type": "int", "ver": "0",
         "data": "2"

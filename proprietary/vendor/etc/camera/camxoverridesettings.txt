@@ -55,6 +55,9 @@ minReprocessInputWidth=0x1FFF
 minReprocessInputHeight=0x1FFF
 enablePerRequestSync=FALSE
 
+#add for raising frame rate in HFR when fps>=120
+FPSForHALOutputBufferCombined=120
+
 #Quickview Function
 enableCHIPartialData=1
 quickviewsupport=TRUE
