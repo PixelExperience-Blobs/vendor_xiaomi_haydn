@@ -1338,6 +1338,7 @@ PRODUCT_PACKAGES += \
     libfastcvopt \
     CACertService \
     CneApp \
+    IFAAService \
     IWlanService \
     SoterService \
     TimeService \
